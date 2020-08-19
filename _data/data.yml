@@ -54,8 +54,10 @@ education:
       time: 2015 - 2020
       details: |
         High School for gifted boys.
-          - Bullet point
-          - Bullet point
+          - Informatics club member: learned algorithms, problem-solving, teached other member of club(some of them are National and International Olympiad winners),
+            organized training camps, created new problem.
+            
+          - Football club member: I played for school team and won some regional tournaments. With friends participated in City football tournaments and won one of them.
     
 experiences:
     - role: Senior
@@ -63,9 +65,9 @@ experiences:
       company: Just High school Club
       details: |
         Learned big varitety of algothims from dynamic programming to graph theory.
-          - Bullet point
-          - Bullet point
-    
+          - Created Problem
+          - Organized Training Camps
+          - Participated and won National and International Olympiads
 
 
 
